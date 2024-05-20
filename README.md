@@ -13,8 +13,5 @@ Although I am a junior developer, I have worked on several personal and collabor
 ✔ Professional Objectives:
 I am looking for opportunities that allow me to grow professionally and continue learning in the field of web development. My goal is to be part of a dynamic team where I can contribute and acquire new skills.
 
-⭕ You can check my contributions on GitHub
-https://lnkd.in/eHq52u7u
-
 I am open to new opportunities and collaborations. You can contact me by email:
 lucasmenesestroche@gmail.com
