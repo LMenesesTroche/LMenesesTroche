@@ -4,8 +4,8 @@ my time to learning and perfecting my skills in web development.
 💡 I know in:
 Web Development: Experience in HTML, CSS, and JavaScript, creating responsive and dynamic websites.
 Additional Technologies: Knowledge in React.
-Databases: Familiar with MySQL and Sequelize.
-English: Intermediate level, which allows me to collaborate and communicate in international environments.
+Databases: Familiar with PostgreSQL and Sequelize.
+English: Advanced level, which allows me to collaborate and communicate in international environments.
 
 📈 Experience:
 Although I am a junior developer, I have worked on several personal and collaborative projects that have allowed me to apply my knowledge and learn new technologies. I am passionate about solving problems and creating applications that improve users' lives.
