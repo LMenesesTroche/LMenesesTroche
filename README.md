@@ -7,5 +7,4 @@ Passionate about building **fast, secure, and scalable interfaces**. Experienced
 - Front-end performance and security
 - UX/UI design based on Figma
 
-Featured projects: Coming Soon..
 Looking to grow by creating **innovative products that deliver value from day one**.
