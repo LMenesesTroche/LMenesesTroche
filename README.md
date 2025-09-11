@@ -5,6 +5,6 @@ Passionate about building **fast, secure, and scalable interfaces**. Experienced
 - React, Next.js, Tailwind CSS, Redux
 - Node.js, APIs, Microservices
 - Front-end performance and security
-- UX/UI design based on Figma
+- UX/UI implementing designs from Figma
 
 Looking to grow by creating **innovative products that deliver value from day one**.
